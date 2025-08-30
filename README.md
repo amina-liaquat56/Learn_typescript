@@ -135,12 +135,12 @@ Before diving into TypeScript, make sure you know:
 ---
 
 ## 14. Projects to Build
-1. 📝 Todo App (React + TS)  
-2. 🌍 REST API (Express + TS)  
-3. 🔐 Auth System (JWT + TS)  
-4. 📊 Dashboard (React + TS + charts)  
-5. 🎮 Game (TypeScript + Canvas)  
-6. ⚡ CLI Tool (Node.js + TS)  
+1. Todo App (React + TS)  
+2. REST API (Express + TS)  
+3. Auth System (JWT + TS)  
+4. Dashboard (React + TS + charts)  
+5. Game (TypeScript + Canvas)  
+6. CLI Tool (Node.js + TS)  
 
 ---
 
