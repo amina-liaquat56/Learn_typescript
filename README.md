@@ -62,7 +62,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 7. Generics
+## 7. Generics
 - Generic functions
 - Generic interfaces & classes
 - Constraints (`extends`)
@@ -72,14 +72,14 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 8. Modules & Namespaces
+## 8. Modules & Namespaces
 - ES Modules (`import` / `export`)
 - Namespaces
 - Ambient declarations (`.d.ts`)
 
 ---
 
-## 📌 9. Tooling & Config
+##  9. Tooling & Config
 - `tsconfig.json` (compiler options)
 - Strict mode (`strictNullChecks`, `noImplicitAny`)
 - ESLint & Prettier with TypeScript
@@ -89,7 +89,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 10. TypeScript with Frameworks
+## 10. TypeScript with Frameworks
 ### React + TypeScript
 - Typing props & state
 - Typing hooks (`useState`, `useReducer`, `useRef`)
