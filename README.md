@@ -1,18 +1,18 @@
-# 📘 TypeScript Roadmap
+# TypeScript Roadmap
 
 A complete roadmap to learn **TypeScript** step by step — from basics to advanced concepts, including tooling, frameworks, and projects.
 
 ---
 
-## 📌 1. Prerequisites
+## 1. Prerequisites
 Before diving into TypeScript, make sure you know:
-- ✅ JavaScript (ES6+ features like `let`, `const`, arrow functions, classes, async/await)
-- ✅ Basic OOP (encapsulation, inheritance, polymorphism)
-- ✅ Node.js & npm/yarn
+- JavaScript (ES6+ features like `let`, `const`, arrow functions, classes, async/await)
+- Basic OOP (encapsulation, inheritance, polymorphism)
+- Node.js & npm/yarn
 
 ---
 
-## 📌 2. TypeScript Basics
+## 2. TypeScript Basics
 - Install & setup (`npm install -g typescript`, `tsc --init`)
 - Core Types: `string`, `number`, `boolean`, `any`, `unknown`, `never`
 - Arrays & Tuples: `number[]`, `[string, number]`
@@ -22,7 +22,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 3. Functions
+## 3. Functions
 - Function parameter types
 - Optional & default parameters
 - Rest parameters
@@ -31,7 +31,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 4. Objects & Interfaces
+## 4. Objects & Interfaces
 - Object types
 - Interfaces (`interface`)
 - Type aliases (`type`)
@@ -41,7 +41,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 5. Classes & OOP
+## 5. Classes & OOP
 - Class properties & methods
 - Access modifiers: `public`, `private`, `protected`
 - `readonly` properties
@@ -52,7 +52,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 6. Advanced Type System
+## 6. Advanced Type System
 - Union & intersection types
 - Literal types
 - Type narrowing
@@ -106,7 +106,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 11. Advanced Concepts
+## 11. Advanced Concepts
 - Declaration merging
 - Module augmentation
 - Conditional types (`T extends U ? X : Y`)
@@ -118,14 +118,14 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 12. Testing with TypeScript
+## 12. Testing with TypeScript
 - Jest + TypeScript
 - Typing mocks
 - E2E testing (Cypress / Playwright)
 
 ---
 
-## 📌 13. Best Practices
+## 13. Best Practices
 - Prefer `unknown` over `any`
 - Avoid excessive type assertions
 - Use interfaces for contracts, type aliases for unions
@@ -134,7 +134,7 @@ Before diving into TypeScript, make sure you know:
 
 ---
 
-## 📌 14. Projects to Build
+## 14. Projects to Build
 1. 📝 Todo App (React + TS)  
 2. 🌍 REST API (Express + TS)  
 3. 🔐 Auth System (JWT + TS)  
