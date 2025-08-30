@@ -1,0 +1,36 @@
+TypeScript Learning Roadmap
+
+PHASE 1: Prerequisites & Fundamentals
+- Master JavaScript basics: variables, functions, objects, arrays, ES6+ features, async/await.
+- Understand TypeScript: benefits, installation, setup (npm install typescript, tsconfig.json), compiling .ts to .js.
+
+PHASE 2: Core Type System
+- Primitive & special types: string, number, boolean, any, unknown, void, never.
+- Type annotations & inference.
+- Aliases, unions (|), intersections (&), literal types.
+- Interfaces: defining object shapes, extending interfaces, optional/readonly fields.
+
+PHASE 3: Structures & OOP
+- Enums, typed arrays, tuples.
+- Functions: parameter & return types, default/optional parameters, overloads, this context.
+- Classes: access modifiers (public/private/protected), inheritance, abstract classes, method overriding.
+
+PHASE 4: Advanced Type Features
+- Utility Types: Partial, Readonly, Pick, Omit, Record, ReturnType.
+- Generics: generic functions, classes, interfaces with constraints & defaults.
+- Advanced Types: type guards, discriminated unions, mapped types, conditional types, template literal types, keyof, in, as.
+- Decorators.
+
+PHASE 5: Tooling & Config
+- tsconfig.json: module resolution, compiler options, strict mode, project references.
+- Tooling: linting, formatting, build tools, essential packages.
+
+PHASE 6: Build Projects & Real-World Practice
+- Mini projects: typed calculators, form handlers.
+- Framework integration: React, Angular, Node.js with TypeScript.
+- Advanced projects: full-stack apps, libraries, open-source contributions.
+
+PHASE 7: Stay Updated & Participate
+- Follow official TypeScript roadmap for new features.
+- Explore community resources, blogs, and challenges.
+- Contribute to open-source TypeScript projects.
